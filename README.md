@@ -1,4 +1,4 @@
-# JyQuaviusBray<h1>Hi, I'm JyQuavius, an <a href="https://linkedin.com/in/JyQuaviusBray"> IT Professional</a>☺</h1>
+# JyQuaviusBray<h1>Hi, I'm JyQuavius, an <a href="https://linkedin.com/in//jyquavius-bray-474a36112"> IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
