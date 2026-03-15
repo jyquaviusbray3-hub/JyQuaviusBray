@@ -3,11 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/JyQuaviusBray/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/JyQuaviusBray/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jyquaviusbray3-hub/ticket-lifecycle?tab=readme-ov-file#ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JyQuaviusBray/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jyquaviusbray3-hub/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
